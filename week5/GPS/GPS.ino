@@ -3,8 +3,8 @@
 #include <WebServer.h>
 
 // 🛜 Wi-Fi credentials
-const char* ssid = "emvundhileh";
-const char* password = "telidhu@12";
+const char* ssid = "xxxxxxxxxxxxx";
+const char* password = "xxxxxxxxxxxxx";
 
 // 📡 GPS pins (TX → 16, RX → 17)
 #define RXD2 16
